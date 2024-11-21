@@ -1,1 +1,1 @@
-it is just fot try in git 
+it is just fot try in github
